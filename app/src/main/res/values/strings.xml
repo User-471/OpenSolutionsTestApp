@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">OpenSolutionsTestApp</string>
+    <string name="dates">Даты</string>
+    <string name="currency">Курс</string>
+    <string name="date">Дата: %1$s</string>
+    <string name="dollar">Доллар: %1$s ₽</string>
+    <string name="euro">Евро: %1$s ₽</string>
+
+</resources>
